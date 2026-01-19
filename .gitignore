@@ -1,3 +1,4 @@
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
@@ -46,12 +47,10 @@ docs/_build/
 .idea/
 
 # outputs / datasets / results
-Result/
 BGA_pdf/
 completed_pdf/
 
 # large binaries / models
-*.onnx
 *.pdf
 *.xlsx
 *.jpg
@@ -60,3 +59,12 @@ completed_pdf/
 # misc
 __pycache__/
 *.pyc
+
+
+# allow images inside Result/
+!Result/
+!Result/**/
+!Result/**/*.jpg
+!Result/**/*.png
+!Result/**/*.jpeg
+!Result/**/*.JPEG
