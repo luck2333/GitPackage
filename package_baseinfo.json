@@ -1,0 +1,26 @@
+[
+  {
+    "pdf": "15.Nanya-NT5CB256M16CP-DI第十五项.pdf",
+    "page_num": 5,
+    "content": "Ball Configuration – 78 Ball BGA Package (X8)",
+    "package_type": "BGA",
+    "pin": 78,
+    "length": null,
+    "width": null,
+    "height": null,
+    "horizontal_pin": null,
+    "vertical_pin": null
+  },
+  {
+    "pdf": "15.Nanya-NT5CB256M16CP-DI第十五项.pdf",
+    "page_num": 6,
+    "content": "Ball Configuration – 96 Ball BGA Package (X16)",
+    "package_type": "BGA",
+    "pin": 96,
+    "length": null,
+    "width": null,
+    "height": null,
+    "horizontal_pin": null,
+    "vertical_pin": null
+  }
+]
